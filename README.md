@@ -1,6 +1,8 @@
 # primeiro_site_html_css
 Primeiro site html e css desenvolvido com o conhecimento do curso da Alura, é possível transitar entre resoluções tanto para computadores quanto para celulares.
 
+URL para o site: https://site-do-jotinha.vercel.app/index.html
+
 Imagens para Celulares:
 
 ![Tela_Mobile_1](https://user-images.githubusercontent.com/130765143/234103496-7a502116-fa20-4697-9f71-16820f9d49cf.png)
